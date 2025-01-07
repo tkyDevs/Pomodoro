@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #212529;
+    background-color: #69ccbd;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 4rem;
+}
+
+h1 {
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+
+.timer {
+    font-size: 4rem;
+}
+
+.btnContainer {
+    display: flex;
+    gap: 2rem;
+}
+
+button {
+    font-size: 1.4rem;
+    padding: 0.4rem 0.8rem;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+#start {
+    background-color: #2b8a3e;
+}
+#start:hover {
+    background-color: #176627;
+}
+
+#stop {
+    background-color: #d63232;
+}
+#stop:hover {
+    background-color: #aa1616;
+}
+
+#reset {
+    background-color: #3f4449;
+}
+#reset:hover {
+    background-color: #020303;
+}
