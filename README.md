@@ -3,6 +3,8 @@
 ## Overview
 This project is a simple Pomodoro Timer built using HTML, CSS, and JavaScript. It provides a timer to help you focus on tasks by using the Pomodoro Technique, which involves working for 25 minutes followed by a 5-minute break. The timer starts, stops, and resets based on user interaction.
 
+![Pomodoro Project Image](image.png)
+
 ## Features
 - **Start Button**: Starts the 25-minute countdown.
 - **Stop Button**: Stops the timer.
