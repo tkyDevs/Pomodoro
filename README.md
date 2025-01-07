@@ -27,7 +27,7 @@ This project is a simple Pomodoro Timer built using HTML, CSS, and JavaScript. I
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pomodoro-timer.git
+    git clone https://github.com/tkyDevs/Pomodoro.git
     ```
 
 2. Open the `index.html` file in any modern web browser.
